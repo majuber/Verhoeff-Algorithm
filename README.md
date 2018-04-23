@@ -5,8 +5,6 @@ Introduction
 ------------------------
 The Verhoeff algorithm is a checksum formula for error detection developed by the Dutch mathematician Jacobus Verhoeff and was first published in 1969  
 
-![Steganography](steganography.jpg)  
-
 Licensing
 ------------------------
 Please see the file named [LICENSE.md](LICENSE.md).
