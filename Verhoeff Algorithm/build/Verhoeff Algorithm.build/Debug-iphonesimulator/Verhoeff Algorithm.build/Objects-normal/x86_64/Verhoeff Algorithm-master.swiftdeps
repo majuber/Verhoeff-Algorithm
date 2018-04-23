@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.1 (swiftlang-902.0.48 clang-902.0.37.1)"
+options: "c206120af029c1c452dc9a3410fca1b1"
+build_time: [1524476338, 388229000]
+inputs:
+  "/Users/jabdul/Desktop/Verhoeff Algorithm/Verhoeff Algorithm/ViewController.swift": [1524476338, 0]
+  "/Users/jabdul/Desktop/Verhoeff Algorithm/Verhoeff Algorithm/AppDelegate.swift": [1524476075, 0]
+  "/Users/jabdul/Desktop/Verhoeff Algorithm/Verhoeff Algorithm/VerhoeffAlgorithm.swift": [1524476270, 0]
