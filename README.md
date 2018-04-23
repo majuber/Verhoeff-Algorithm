@@ -1,4 +1,3 @@
-# Verhoeff-Algorithm
 **Verhoeff-Algorithm**
 ========================
 
